@@ -6,7 +6,9 @@ Input: H&E 40x digital preparation in svs format: tissue mask with fat cells.
 
 Output: list of cells and morphological features in Excel format. 
 
+## fatcell_analysis.py
 Fat cell segmentation program - used functions from: https://github.com/abebe9849/Crohn_wsi
 
+## koelacje2.m
 Statistical analysis: Exel & Matlab
 
