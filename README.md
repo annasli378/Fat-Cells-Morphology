@@ -8,5 +8,6 @@ Output: list of cells and morphological features in Excel format.
 
 Fat cell segmentation program - used functions from: https://github.com/abebe9849/Crohn_wsi
 
-Statistical analysis: Exel & Matlab
+Statistical analysis: Exel & Matlab:
+https://github.com/annasli378/segmentacja_komorek
 
