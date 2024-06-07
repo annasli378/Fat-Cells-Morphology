@@ -18,6 +18,8 @@ Fat cell segmentation and feature extraction file program - authors of the origi
 ### Notebook 
 
 
-## korelacje2.m
-statistical analysis of the results: Exel & Matlab
+## Results
+
+
+## Bibliography
 
