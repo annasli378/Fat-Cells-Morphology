@@ -2,6 +2,24 @@
 
 Adipocytes are adipose tissue cells and are the body's main energy store. Their main role is to store energy in the form of triglycerides. In a situation of higher energy demand, the body can derive the substrates it needs from the stored reserves through the process of lipolysis, i.e. breakdown. On the other hand, when the food supply is too high and the amount of energy expended by the body is lower, lipogenesis will occur and the excess will be deposited in the fat cells.  
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#adiopocyte-analysis">Adiopocyte analysis</a>
+      <ul>
+        <li><a href="#data">Data</a></li>
+        <li><a href="#aim">Aim</a></li>
+        <li><a href="#steps">Steps</a></li>
+        <li><a href="#results">Results</a></li>
+      </ul>
+    <li><a href="#bibliography">Bibliography</a></li>
+  </ol>
+</details>
+
+
+
 ## Data 
 Input: H&E 40x digital images in .tif format.
 
@@ -119,6 +137,8 @@ Table 8. Differences in Any rec WITH
 | Background 3rd quartile |    2.2136 |  0.0269 |
 
 ### Clusterization results
+
+For characteristics considered to be statistically differentiating for Early rec withOUT/WITH and Any rec withOUT/WITH, clustering is possible:
 
 ![img4](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/kmeans1.png)
 
