@@ -35,21 +35,26 @@ The first step was to look for correlations between fat cell features and patien
 | AgeAtSurgery    | area quartile range | 0.5038       | 0.0003  |
 
 
-|               Patient_ft | Cell_ft | pearson_corr_coef | p_value |
+|               Patient feature | Fat Cell feature   | Pearson corr | P value |
 |--------------------------|---------|-------------------|---------|
-|           AgeAtDiagnosis |    mean |           -0.3254 |  0.0311 | 
-|           AgeAtDiagnosis |    skew |           -0.3732 |  0.0386 | 
-|           AgeAtDiagnosis |      Q3 |           -0.3398 |  0.0240 | 
-|             AgeAtSurgery |    mean |           -0.4091 |  0.0048 |
-|             AgeAtSurgery |  median |           -0.3630 |  0.0132 |
-|             AgeAtSurgery |     std |           -0.3602 |  0.0139 |
-|             AgeAtSurgery |    skew |           -0.3832 |  0.0304 |
-|             AgeAtSurgery |  maxmin |           -0.3902 |  0.0073 |   
-|             AgeAtSurgery |      Q1 |           -0.3165 |  0.0321 |   
-|             AgeAtSurgery |      Q3 |           -0.4488 |  0.0018 |   
-|             AgeAtSurgery |       Q |           -0.3560 |  0.0152 |   
-| Any_rec_withOUT_i2ab_6mo |    kurt |           -0.4681 |  0.0120 |   
-|    Any_rec_WITH_i2ab_6mo |    kurt |           -0.4681 |  0.0120 |   
+|           AgeAtDiagnosis |  background mean |           -0.3254 |  0.0311 | 
+|           AgeAtDiagnosis |  background skewness |           -0.3732 |  0.0386 | 
+|           AgeAtDiagnosis |   background 3rd quartile |           -0.3398 |  0.0240 | 
+|             AgeAtSurgery |   background mean |           -0.4091 |  0.0048 |
+|             AgeAtSurgery |  background median |           -0.3630 |  0.0132 |
+|             AgeAtSurgery |  background std |           -0.3602 |  0.0139 |
+|             AgeAtSurgery |  background skewness |           -0.3832 |  0.0304 |
+|             AgeAtSurgery |  background range |           -0.3902 |  0.0073 |   
+|             AgeAtSurgery |  background    1st quartile |           -0.3165 |  0.0321 |   
+|             AgeAtSurgery |  background    3rd quartile |           -0.4488 |  0.0018 |   
+|             AgeAtSurgery |  background     quartile range |           -0.3560 |  0.0152 |   
+| Any_rec_withOUT_i2ab_6mo |  background  kurtosis |           -0.4681 |  0.0120 |   
+|    Any_rec_WITH_i2ab_6mo |  background  kurtosis |           -0.4681 |  0.0120 |   
+
+
+
+
+
 
 
 
