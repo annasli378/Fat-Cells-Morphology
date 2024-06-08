@@ -120,6 +120,14 @@ Table 8. Differences in Any rec WITH
 
 ### Clusterization results
 
+![img4](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/kmeans1.png)
+
+![img5](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/clusters1.png)
+
+![img6](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/kmeans2.png)
+
+![img7](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/clusters2.png)
+
 
 
 ## Bibliography
