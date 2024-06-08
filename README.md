@@ -15,7 +15,7 @@ Input: H&E 40x digital images in .tif format.
 ### Notebook fatcells_features.ipynb
 Fat cell segmentation and feature extraction file program - authors of the original paper see: https://github.com/abebe9849/Crohn_wsi
 
-### Notebook features_analysis.ipynb
+### Notebook cell_features_analysis.ipynb
 Analysis of the data and matching it with patient information:
 - search for correlations (Pearson)
 - analysis of differences between groups (Ranksum)
