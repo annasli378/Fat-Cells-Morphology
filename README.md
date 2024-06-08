@@ -35,6 +35,8 @@ Table 1. Patient features vs Fat Cell Areas features
 | AgeAtSurgery    | area 3rd quartile   | 0.4632       | 0.0012  |
 | AgeAtSurgery    | area quartile range | 0.5038       | 0.0003  |
 
+![img3](https://github.com/annasli378/Fat-Cells-Morphology/blob/main/img3.png)
+
 
 
 Table 2. Patient features vs Fat Cell Background features 
